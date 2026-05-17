@@ -42,3 +42,5 @@ Thumbs.db
 
 # Word documents (arquivos binários grandes)
 *.docx
+
+CONTEXTO_SESSAO.md
